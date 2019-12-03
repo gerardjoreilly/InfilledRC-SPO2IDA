@@ -6,7 +6,9 @@ It has been developed mainly for ductile structures that can be sufficiently rep
 
 A new library of empirical coefficients have been fitted and proposed by considering a large database of representative backbones to result in an extended SPO2IDA proposal for infilled RC frames.
 
+
 Please cite as:
+
 Nafeh AMB, O’Reilly GJ, Monteiro R. Simplified seismic assessment of infilled RC frame structures. Bulletin of Earthquake Engineering 2019. DOI: 10.1007/s10518-019-00758-2.
 
 # Licensing
